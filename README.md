@@ -4,7 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-vitor)
 
 
-![SamueldeSa](https://github-readme-stats.vercel.app/api?username=SamueldeSa&show_icons=true&theme=radical)
+![SamueldeSa](https://github-readme-stats.vercel.app/api?username=SamueldeSa&show_icons=true&theme=radical) 
+/br
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## | Minhas tecnologias |
