@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Samuel Vitor 🤙
 
-### Olá! Eu sou o Samuel Vitor 🤙
-
 ## | Analytics |
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=SamueldeSa=true&theme=radical" alt="SamueldeSa stats"/>
