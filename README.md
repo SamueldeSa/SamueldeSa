@@ -2,9 +2,6 @@
 
 ## | Analytics |
 
-![SamueldeSa](https://github-readme-stats.vercel.app/api?username=SamueldeSa&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldeSa&layout=compact&theme=tokyonight)
 
 ## | Tech | 
 
