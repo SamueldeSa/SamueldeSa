@@ -2,9 +2,8 @@
 
 ## | Analytics |
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=SamueldeSa=true&theme=radical" alt="SamueldeSa stats"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SamueldeSa)](https://github.com/anuraghazra/github-readme-stats)
+
 ## | Tech | 
 
 <div style="display: inline_block"><br/>
@@ -16,4 +15,4 @@
 
 ## | Social |
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samuka__vitor)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-vitor)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/samuel-vitor) 
