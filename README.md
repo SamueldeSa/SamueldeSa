@@ -7,10 +7,6 @@
     <img height="100em" src="https://github-readme-stats.vercel.app/api?username=SamueldeSa&show_icons=true&theme=onedark"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueldeSa&show_icons=true)
-
-
- 
 </picture>
 
 ## | Tech | 
