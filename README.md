@@ -1,4 +1,5 @@
-### Olá! Eu sou o Samuel Vitor 🤙
+### Olá, Eu sou o Samuel Vitor 🤙
+- Desenvolvedor Backend
 
 ## | Analytics |
 
